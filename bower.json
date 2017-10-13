@@ -1,0 +1,29 @@
+{
+  "name": "callstats-kurento",
+  "description": "Kurento Client interface for callstats.io",
+  "main": "lib/index.js",
+  "authors": [
+    "Mihai Potra <mihai@nimblea.pe>"
+  ],
+  "dependencies": {
+    "debug": "*"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "csio",
+    "callstats-io",
+    "kurento"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nimbleape/callstats-kurento.git"
+  },
+  "homepage": "https://github.com/nimbleape/callstats-kurento",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
