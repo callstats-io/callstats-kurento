@@ -1,6 +1,6 @@
 {
   "name": "callstats-kurento",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Kurento Client interface for callstats.io",
   "authors": [
     "Mihai Potra <mihai@nimblea.pe>"

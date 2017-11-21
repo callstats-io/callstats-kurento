@@ -67,7 +67,7 @@ webRtcPeer = kurentoUtils.WebRtcPeer.WebRtcPeerSendonly(options, function(error)
     // Create a callstats-kurento peer, by handling the the webrTc peer returned by kurentoUtils
     // and supplying a PEER_ID (a session ID).
     var ckPeer = ckConference.handle(webRtcPeer, PEER_ID);
-    
+
     this.generateOffer(onOfferPresenter);
 });
 ```
