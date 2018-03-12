@@ -1,11 +1,12 @@
 {
   "name": "callstats-kurento",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Kurento Client interface for callstats.io",
   "authors": [
-    "Mihai Potra <mihai@nimblea.pe>"
+    "Mihai Potra <mihai@nimblea.pe>",
+    "Karthik Budigere <karthik@callstats.io>"
   ],
-  "license": "UNLICENSED",
+  "license": "chk license.txt",
   "main": "lib/index.js",
   "dependencies": {
     "babel-runtime": "^6.18.0",
